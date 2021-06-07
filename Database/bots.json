@@ -1,0 +1,18 @@
+db.bots.insertMany([
+    {
+      "name": "Steve",
+      "status": "off"
+    },
+    {
+      "name": "Alice",
+      "status": "off"
+    },
+    {
+      "name": "Bob",
+      "status": "off"
+    },
+    {
+      "name": "Bill",
+      "status": "off"
+    }
+  ])
