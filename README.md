@@ -3,7 +3,7 @@
 
 In this project me and Aasmaou have realized a simple chatbot based on Rivescript that can run on the browser or Discord.
 
-The project consists of web-app which is composed of two interfaces:
+The project consists of a web-app which is composed of two interfaces:
 
 	1. ADMIN PAGE: which lets you
 		- launch the chatbot by selecting the platform (Broser or Discord), the name of the chatbot and the brain. 
@@ -35,7 +35,7 @@ The project consists of web-app which is composed of two interfaces:
 
 2. _MongoDb_ for implementing the mongoDB database.
 
-3. _Discord.js _for interfacing with Discord API.
+3. _Discord.js_ for interfacing with Discord API.
 
 4. _Rivescript_ for emulating the bot.
 
