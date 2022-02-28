@@ -1,7 +1,7 @@
 
 # Rivescript chatbot in NodeJS running on the Browser and Discord
 
-In this project me and Aasmaou have realized a simple chatbot based on Rivescript that can run on the browser or Discord.
+In this project me and my teammate Aasmaou have realized a simple chatbot based on Rivescript that can run on the browser or Discord.
 
 The project consists of a web-app which is composed of two interfaces:
 
