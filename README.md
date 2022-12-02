@@ -44,3 +44,9 @@ The project consists of a web-app which is composed of two interfaces:
 6. _Express_
 
 7. _Cors_ for allowing the exchange of messages between the ServerBot.js and the ServerAdmin.js
+
+## VIDEO DEMONSTRATION
+
+https://user-images.githubusercontent.com/46025764/205402417-ac234d37-82e0-4b82-98ca-6c1137530f04.mov
+
+
